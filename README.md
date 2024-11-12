@@ -1,63 +1,62 @@
-# 🧑‍🔬 **Análisis de Inventores Científicos - Dashboard Interactivo**
+# 🧑‍🔬 **Scientific Inventors Analysis - Interactive Dashboard**
 
-## 📝 **Descripción del Proyecto**
-Este proyecto tiene como objetivo la creación de un **dashboard interactivo** utilizando **Tableau** para analizar los **inventores científicos**, sus **invenciones** y la **financiación** que han recibido a lo largo de la historia, desde 1500 hasta 2024. A través de un análisis detallado de los datos, hemos identificado patrones clave relacionados con la **distribución geográfica**, **reconocimiento** y **apoyo financiero** que estos inventores han tenido durante su trayectoria.
+## 📝 **Project Description**
+This project aims to create an **interactive dashboard** using **Tableau** to analyze **scientific inventors**, their **inventions**, and the **funding** they have received throughout history, from 1500 to 2024. Through a detailed data analysis, we have identified key patterns related to the **geographical distribution**, **recognition**, and **financial support** these inventors have received during their careers.
 
 ---
 
-## 🔄 **Flujo de Trabajo**
-1. **Obtención y Limpieza de Datos**: Se recopiló un conjunto de datos sobre inventores científicos de diversas fuentes confiables. Posteriormente, se realizaron tareas de limpieza y preprocesamiento para asegurarnos de que los datos estuvieran listos para el análisis.
+## 🔄 **Workflow**
+1. **Data Collection and Cleaning**: A dataset of scientific inventors was collected from various reliable sources. Data cleaning and preprocessing tasks were carried out to ensure the data was ready for analysis.
    
-2. **Análisis Exploratorio**: Se llevó a cabo un análisis exploratorio de los datos para identificar patrones, tendencias y correlaciones clave, como la **distribución geográfica** de los inventores, la **financiación recibida** y el **reconocimiento social**.
+2. **Exploratory Analysis**: An exploratory analysis of the data was conducted to identify key patterns, trends, and correlations such as the **geographical distribution** of inventors, the **funding received**, and **social recognition**.
 
-3. **Creación de Dashboards**: Con los datos procesados, se creó un conjunto de **dashboards interactivos** en **Tableau** para visualizar las diferentes métricas y ofrecer una experiencia dinámica y accesible al usuario.
+3. **Dashboard Creation**: With the processed data, a set of **interactive dashboards** was created in **Tableau** to visualize various metrics and provide a dynamic and accessible user experience.
 
-4. **Validación y Refinamiento**: Se realizó un proceso de revisión para asegurarnos de que las visualizaciones fueran claras, precisas y fáciles de entender, adaptando los dashboards para contar la historia de manera efectiva.
-
----
-
-## ⚙️ **Tecnologías Utilizadas**
-- **Tableau**: Herramienta principal para crear los dashboards interactivos y las visualizaciones.
-- **Python** (opcional): Para la limpieza y preprocesamiento de los datos antes de importarlos a Tableau.
-- **Librerías de Web Scraping** (si es necesario): Para la recolección de datos adicionales desde la web.
+4. **Validation and Refinement**: A review process was carried out to ensure that the visualizations were clear, accurate, and easy to understand, adapting the dashboards to effectively tell the story.
 
 ---
 
-## 🎯 **Objetivos del Proyecto**
-- **Visualizar la historia** de los inventores científicos, sus invenciones y el apoyo financiero recibido.
-- **Identificar patrones geográficos**, de género y de ocupación en el campo de la innovación científica.
-- **Explorar las tendencias en la financiación** y el reconocimiento de los inventores a lo largo del tiempo.
-- **Generar una visualización interactiva** que permita a los usuarios explorar los datos de manera dinámica y educativa.
+## ⚙️ **Technologies Used**
+- **Tableau**: Main tool used for creating the interactive dashboards and visualizations.
+- **Python** (optional): For data cleaning and preprocessing before importing the data into Tableau.
+- **Web Scraping Libraries** (if necessary): To collect additional data from the web.
 
 ---
 
-## 🌍 **Impacto y Resultados**
-- **Visualización accesible**: La creación de un dashboard interactivo permite a los usuarios explorar y comprender fácilmente patrones históricos sobre la innovación científica.
-- **Identificación de tendencias clave**: Se descubrieron tendencias importantes, como la fuerte representación de inventores de **América del Norte** y **Europa**, así como el predominio de la **computación** en términos de financiación.
-- **Enfoque educativo**: El proyecto proporciona información valiosa sobre la historia de la innovación y los inventores, lo que contribuye al conocimiento colectivo en el área de la ciencia y la tecnología.
+## 🎯 **Project Objectives**
+- **Visualize the history** of scientific inventors, their inventions, and the financial support they received.
+- **Identify geographical, gender, and occupation patterns** in the field of scientific innovation.
+- **Explore trends in funding** and recognition of inventors over time.
+- **Generate an interactive visualization** that allows users to explore the data dynamically and educationally.
 
 ---
 
-## 💡 **Inspiración y Valores**
-Este proyecto nació del interés por explorar la historia de los inventores y sus contribuciones a la ciencia y la tecnología. Inspirados por la necesidad de **visualizar** datos históricos de manera accesible, buscamos construir una herramienta que no solo sirviera para analizar la información, sino también para **educar** e inspirar a futuras generaciones. 
-
-Los valores de **inclusión**, **equidad** y **acceso al conocimiento** fueron fundamentales en la creación de este proyecto. Queremos mostrar cómo el apoyo financiero, la educación y el reconocimiento juegan un papel clave en la trayectoria de los innovadores, y cómo esas dinámicas han evolucionado con el tiempo.
-
----
-
-## 📊 **Conclusiones**
-- **Patrones geográficos**: América del Norte y Europa siguen siendo las regiones dominantes en cuanto a la representación de inventores científicos, lo que plantea preguntas sobre el acceso a la educación y los recursos para la innovación.
-- **Reconocimiento y financiación**: Un porcentaje importante de los inventores han sido reconocidos en vida, lo que subraya la importancia del apoyo social en sus carreras. Además, se observó que **Estados Unidos** ha sido un gran financiador, apoyando tanto a inventores nacionales como internacionales.
-- **Tendencias de innovación**: Los campos más financiados han sido aquellos relacionados con la **tecnología** y la **computación**, reflejando la creciente importancia de estos sectores en la vida moderna.
-- **Oportunidades futuras**: Si más países y organizaciones invirtieran en la financiación y el apoyo de inventores de diversas regiones, especialmente en entornos desfavorecidos, podrían surgir más oportunidades de innovación globalmente.
+## 🌍 **Impact and Results**
+- **Accessible visualization**: The creation of an interactive dashboard allows users to easily explore and understand historical patterns of scientific innovation.
+- **Identification of key trends**: Important trends were discovered, such as the strong representation of inventors from **North America** and **Europe**, as well as the dominance of **computing** in terms of funding.
+- **Educational focus**: The project provides valuable insights into the history of innovation and inventors, contributing to collective knowledge in the fields of science and technology.
 
 ---
 
+## 💡 **Inspiration and Values**
+This project was born from an interest in exploring the history of inventors and their contributions to science and technology. Inspired by the need to **visualize** historical data in an accessible way, we sought to build a tool that not only analyzes information but also **educates** and inspires future generations.
 
-## 📱 **Contacto**
-Si deseas conectar o aprender más sobre este proyecto, no dudes en visitar mi perfil de **LinkedIn**: [Yael Parra](https://www.linkedin.com/in/yael-parra/) 💼
+The values of **inclusion**, **equity**, and **access to knowledge** were fundamental in the creation of this project. We aim to show how financial support, education, and recognition play a key role in the careers of innovators and how these dynamics have evolved over time.
 
 ---
 
-**¡Gracias por explorar este proyecto!**  
-Si tienes alguna pregunta o sugerencia, no dudes en contactar. 🙌
+## 📊 **Conclusions**
+- **Geographical patterns**: North America and Europe continue to dominate in terms of scientific inventor representation, raising questions about access to education and resources for innovation.
+- **Recognition and funding**: A significant percentage of inventors have been recognized in their lifetime, highlighting the importance of social support in their careers. Additionally, **the United States** has been a major funder, supporting both domestic and international inventors.
+- **Innovation trends**: The most funded fields have been those related to **technology** and **computing**, reflecting the growing importance of these sectors in modern life.
+- **Future opportunities**: If more countries and organizations invested in the funding and support of inventors from diverse regions, especially in disadvantaged environments, more global innovation opportunities could arise.
+
+---
+
+## 📱 **Contact**
+If you'd like to connect or learn more about this project, feel free to visit my **LinkedIn** profile: [Yael Parra](https://www.linkedin.com/in/yael-parra/) 💼
+
+---
+
+**Thank you for exploring this project!**  
+If you have any questions or suggestions, feel free to reach out. 🙌
